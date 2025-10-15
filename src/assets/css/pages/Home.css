@@ -1,0 +1,6 @@
+.first_slide{
+    @apply text-center pt-5;
+}
+.first_slide h1{
+    @apply text-[66px] font-medium text-white mb-[50px] tracking-[32px];
+}

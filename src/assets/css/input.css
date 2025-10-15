@@ -1,0 +1,7 @@
+@import './default.css';
+
+/* component css  */
+@import './components/header.css';
+
+/* pages css */
+@import './pages/Home.css';
